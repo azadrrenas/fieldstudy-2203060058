@@ -1,0 +1,45 @@
+# Website Review for Lefkoşa Turkish Municipality
+
+**Prepared by: Azad renas gunasan  
+**Date:11.08.2026
+
+## What Is Working Well?
+
+- **Good keyboard navigation:** Visitors can move between interactive elements using the keyboard, and the selected elements are clearly highlighted.
+- **Clear search feedback:** When no search results are found, the website displays a message informing visitors that no results are available.
+
+## The Three Things to Fix First
+
+### 1. Show Visitors When a Page Is Loading
+
+**What visitors experience:** When the website is opened using a slow internet connection, visitors may see a blank white screen.
+
+**Why it matters:** Visitors may think the website is not working and leave before the page finishes loading.
+
+**What to ask the web developer to do:** Add a simple loading animation or a message such as "Please wait, the page is loading."
+
+**How to check:** Open the website using a slow internet connection and check whether a loading message appears.
+
+### 2. Make Form Labels Easier to Use
+
+**What visitors experience:** Clicking on a form label does not move the cursor to its corresponding field.
+
+**Why it matters:** This can make filling out forms less convenient, especially for visitors who use accessibility tools.
+
+**What to ask the web developer to do:** Make sure each form label is properly connected to its input field.
+
+**How to check:** Click on each form label and check whether the cursor moves to the correct field.
+
+### 3. Provide Clear Form Error Messages
+
+**What visitors experience:** When a required field is left empty, it is highlighted in red, but no clear explanation is shown.
+
+**Why it matters:** Visitors may not understand what they need to correct before submitting the form.
+
+**What to ask the web developer to do:** Display a short message explaining which required field needs to be completed.
+
+**How to check:** Leave a required field empty and press submit. Check whether a clear explanation appears.
+
+## Closing
+
+Thank you for providing an important online service to the residents of Lefkoşa. These improvements could make the website easier to use and help visitors access municipal services more comfortably.
